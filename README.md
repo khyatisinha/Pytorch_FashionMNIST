@@ -5,10 +5,6 @@ FashionMNIST is a dataset consisting of a training set of 60000 fashion images a
 
 There are 10 different classes of images and the model is trained to classify the different fashion images.
 
-Here's how the FashionMNIST data looks like :-
-
-
-
 
 
 Labels
